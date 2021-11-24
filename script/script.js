@@ -18,7 +18,7 @@ const checkout = document.getElementById("checkout");
 const overlay = document.getElementById("overlay");
 const lightBox = document.getElementById("lightbox");
 
-let productCounter = 0;
+let productCounter = 1;
 let productsInCart = 0;
 let price = 250.0;
 let discount = 0.5;
